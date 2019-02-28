@@ -1,0 +1,2 @@
+deb http://mirror.yandex.ru/debian testing main contrib non-free
+deb http://mirror.yandex.ru/debian stretch main contrib non-free
